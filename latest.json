@@ -1,7 +1,7 @@
  {
-    "version": "0.0.4",
+    "version": "0.0.5",
     "download_url": "https://github.com/ryanshrott/dictaflow-updates/releases/latest/download/DictaFlowSetup.exe",
-    "release_notes": "improved logging",
-    "published_at": "2025-09-29T14:00:00Z",
-    "minimum_version": "0.0.4"
+    "release_notes": "improved login flow and fixed minor bugs",
+    "published_at": "2025-10-18T14:00:00Z",
+    "minimum_version": "0.0.5"
   }
